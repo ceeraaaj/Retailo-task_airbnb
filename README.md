@@ -16,4 +16,4 @@ Testing Steps:
   3. Launch Cypress
         npx cypress open
   4. You will find Test-sets for both the tasks in Integrations.
-  	 Under Integrations/Retailo-airbnb/ both the Test-sets are present. Click on any of them and automation tests will start running. a
+  	 Under Integrations/Retailo-airbnb/ both the Test-sets are present. Click on any of them and automation tests will start running. 
