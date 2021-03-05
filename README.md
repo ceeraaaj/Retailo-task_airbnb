@@ -29,5 +29,6 @@ npm install cypress --save-dev
 ```
 npx cypress open
 ```
-  4. You will find Test-sets for both the tasks in Integrations. 
+  4. Choose your cloned directory from the Cypress UI.
+  5. You will find Test-sets for both the tasks in Integrations. 
 Under Integrations/Retailo-airbnb/ both the Test-sets are present. Click on any of them and automation tests will start running.
