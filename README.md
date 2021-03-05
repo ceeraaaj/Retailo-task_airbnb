@@ -1,6 +1,6 @@
 # Retailo-task_airbnb
 
-This repo contains an example React App, with the tests written in Cypress.
+This repo contains sample test scenarios executed on AirBnB using Cypress.
 
 ## Prerequisite
 Node should be installed on your system, if it is not already installed then,
