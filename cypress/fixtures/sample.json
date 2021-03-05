@@ -1,0 +1,32 @@
+[
+  {
+    "city": "Santa Monica",
+    "check_in": "03/10/2021",
+    "check_out": "04/11/2021",
+    "guests": 653
+  },
+  {
+    "city": "Huanggang",
+    "check_in": "11/27/2020",
+    "check_out": "9/24/2021",
+    "guests": 934
+  },
+  {
+    "city": "Praszka",
+    "check_in": "6/9/2020",
+    "check_out": "9/12/2021",
+    "guests": 210
+  },
+  {
+    "city": "Alejandro Roca",
+    "check_in": "2/12/2020",
+    "check_out": "9/25/2020",
+    "guests": 266
+  },
+  {
+    "city": "De la Paz",
+    "check_in": "3/22/2020",
+    "check_out": "9/15/2020",
+    "guests": 235
+  }
+]
